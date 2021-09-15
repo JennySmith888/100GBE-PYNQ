@@ -6,7 +6,7 @@
 [Running the Project](https://github.com/JennySmith888/100GBE-PYNQ#running-the-project)
 
 ## Introduction
-This project provides an example design for working with the [UltraScale+ Integrated 100GbE Subsystem (CMAC)](https://www.xilinx.com/products/intellectual-property/cmac_usplus.html) on the Xilinx [ZCU111](https://www.xilinx.com/support/documentation/boards_and_kits/zcu111/ug1271-zcu111-eval-bd.pdf). The 100 GbE subsystem consists of a hardened IP also known as the CMAC. This hardened IP is available in Xilinx UltraScale+ devices. See the [Xilinx documentation](https://www.xilinx.com/products/intellectual-property/cmac_usplus.html) for more details on the IP core. 
+This project provides an example design for working with the [UltraScale+ Integrated 100G Ethernet Subsystem (CMAC)](https://www.xilinx.com/products/intellectual-property/cmac_usplus.html) on the Xilinx [ZCU111](https://www.xilinx.com/support/documentation/boards_and_kits/zcu111/ug1271-zcu111-eval-bd.pdf). The 100G subsystem consists of a hardened IP also known as the CMAC. This hardened IP is available in Xilinx UltraScale+ devices. See the [Xilinx documentation](https://www.xilinx.com/products/intellectual-property/cmac_usplus.html) for more details on the IP core. 
 
 
 
