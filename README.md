@@ -39,5 +39,5 @@ The project was built using Vivado 2020.2. Before you can regenerate the project
 4. Run `make`
 
 ## Running the Project
-To test the project, transfer the contents of `/py` and the newly populated `/ZCU111/board_test` to a ZCU111 running a PYNQ v2.6 image. Place them in the same folder and run the `CMAC_Intro.ipynb` notebook. If you don't have such a board available, you can still view the notebook with the executed cells [here](https://github.com/JennySmith888/100GBE-PYNQ/blob/main/py/CMAC_Intro.ipynb).
+To test the project, transfer the contents of `/py` and the newly populated `/ZCU111/board_test` to a ZCU111 running a [PYNQ v2.6 image](https://github.com/Xilinx/PYNQ/releases). Place them in the same folder and run the `CMAC_Intro.ipynb` notebook. If you don't have such a board available, you can still view the notebook with the executed cells [here](https://github.com/JennySmith888/100GBE-PYNQ/blob/main/py/CMAC_Intro.ipynb).
 
